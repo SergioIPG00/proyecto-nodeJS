@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioIPG00/proyecto-nodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SergioIPG00/proyecto-nodeJS/issues"
+  },
+  "homepage": "https://github.com/SergioIPG00/proyecto-nodeJS#readme"
 }
